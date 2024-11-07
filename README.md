@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshay090703&label=Profile%20views&color=0e75b6&style=flat" alt="akshay090703" /> </p>
 
-- 🔭 I’m currently working on **Talkrr**
+- 🔭 I’m currently working on **SmartInbox**
 
 - 🌱 I’m currently learning **C++ and DSA**
 
