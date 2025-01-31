@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Akshay Kumar Pandey</h1>
-<h3 align="center">A passionate programmer from India. I have experience in working with MERN Stack web development, Microsoft Azure and Cybersecurity tools.</h3>
+<h3 align="center">A passionate programmer from India. I have experience in working with MERN Stack web development, React Native, Nextjs, Spring Boot and Microsoft Azure and Cybersecurity tools.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshay090703&label=Profile%20views&color=0e75b6&style=flat" alt="akshay090703" /> </p>
 
-- 🔭 I’m currently working on **SmartInbox**
+- 🔭 I’m currently working on **Personal portfolio**
 
 - 🌱 I’m currently learning **Java and Spring Boot**
 
-- 💬 Ask me about **react, node.js, azure**
+- 💬 Ask me about **MERN stack, React Native, Nextjs, Spring Boot, azure**
 
 - 📫 How to reach me **3551akshay@gmail.com**
 
